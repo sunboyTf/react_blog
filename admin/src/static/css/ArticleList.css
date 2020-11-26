@@ -1,0 +1,16 @@
+.list-div{
+    width: 100%;
+}
+.ant-col,.ant-col-8{
+    text-align: center;
+    /* word-wrap:break-word; */
+    height: auto;
+    line-height: 30px;
+}
+span{
+    vertical-align:middle;
+	height: auto;
+	line-height: initial;
+    word-break: break-all;
+    display: inline-block;
+}
